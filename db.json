@@ -1,3 +1,20 @@
 {
-  "clientes": []
+  "clientes": [
+    {
+      "nombre": "Ramon",
+      "empresa": "Quesera",
+      "email": "correo@correo.com",
+      "telefono": "4545454",
+      "notas": "Buen queso",
+      "id": 1
+    },
+    {
+      "nombre": "Victor",
+      "empresa": "FeeDeveloper",
+      "email": "correo@correo.com",
+      "telefono": "34343443",
+      "notas": "FreeCode",
+      "id": 2
+    }
+  ]
 }
